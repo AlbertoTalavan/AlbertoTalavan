@@ -1,14 +1,14 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" alt="GIF" src="/Assets/me.svg?raw=true" width="320" height="320" />  
 
-Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain 🇪🇸.
+Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
 
 #### some things about me:
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently improving my SwiftUI knowledge.
 - 👯 I’m looking to collaborate on interesting suggestions.
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything, I willing to help.
 
 <!-- 
  📝[Resume](https://drive.google.com/) REMEMBER TO ADD THE LINK when updated!
