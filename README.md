@@ -8,7 +8,7 @@ Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently improving my SwiftUI knowledge.
 - 👯 I’m looking to collaborate on interesting suggestions.
-- 💬 Ask me about anything, I willing to help.
+- 💬 Ask me about anything, I´m willing to help.
 
 <!-- 
  📝[Resume](https://drive.google.com/) REMEMBER TO ADD THE LINK when updated!
