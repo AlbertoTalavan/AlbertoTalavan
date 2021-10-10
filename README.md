@@ -5,7 +5,7 @@
 Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
 
 #### some things about me:
-- 🔭 I’m currently working on something cool.
+- 🔭 I’m currently working on an interesting large project.  <!-- something cool -->
 <!--
 - 🌱 I’m currently **open to job offers**.
 - 👯 I’m looking to collaborate on interesting suggestions.
