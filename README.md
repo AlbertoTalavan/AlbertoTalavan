@@ -5,6 +5,7 @@ https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc
 <img align="right" alt="GIF" src="/Assets/me.svg?raw=true" width="320" height="320" />  
 
 Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
+***
 
 #### some things about me:
 - 🔭 I’m currently working on an interesting large project.  <!-- something cool -->
