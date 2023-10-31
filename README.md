@@ -1,5 +1,7 @@
-### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hey there!! <img src="https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc/giphy.gif" width="25px">
+<!-- img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px
+https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc
+-->
 <img align="right" alt="GIF" src="/Assets/me.svg?raw=true" width="320" height="320" />  
 
 Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
