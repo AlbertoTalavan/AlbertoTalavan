@@ -19,9 +19,11 @@ Hi, I´m **Alberto**, a passionate iOS Developer originally from Spain. 🇪🇸
  📝[Resume](https://drive.google.com/) REMEMBER TO ADD THE LINK when updated!
 -->
 
-#### Let´s get in touch:   
+#### Let´s get in touch: 
+<!-- 
 - [![twitter](https://img.shields.io/badge/-@AlbertoTalavan-00ACEE.svg?style=for-the-badge&logo=twitter&color=black
  "Alberto Talaván")](https://twitter.com/albertotalavan)
+ -->
 - [![LinkedIn](https://img.shields.io/badge/-@AlbertoTalavan-00ACEE.svg?style=for-the-badge&logo=linkedin&color=0C62A7
  "Alberto Talaván")](https://www.linkedin.com/in/alberto-t-491001173/)
 
